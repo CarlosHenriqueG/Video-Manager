@@ -18,6 +18,6 @@
 
 <h3>Technologies 💻</h3>
 
-<p>Fastify -</p>
-<p>Postgres -</p>
-<p>node:crypto</p>
+<p>- Fastify</p>
+<p>- Postgres</p>
+<p>- node:crypto</p>
