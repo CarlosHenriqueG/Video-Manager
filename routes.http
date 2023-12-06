@@ -1,4 +1,4 @@
-POST http://localhost:3333/videos
+POST https://api-video-manager-vyb3.onrender.com/videos
 Content-Type: application/json
 
 {
@@ -9,18 +9,18 @@ Content-Type: application/json
 
 ###
 
-GET http://localhost:3333/videos
+GET https://api-video-manager-vyb3.onrender.com/videos
 
 ### 
-PUT http://localhost:3333/videos/defdeaf8-3865-45ab-87af-0886d957c17f
+PUT https://api-video-manager-vyb3.onrender.com/videos/89090f65-759b-41e0-a7c9-3694b97a6a48
 Content-Type: application/json
 
 {
-  "title": "video 03",
-  "description": "Mudou aqui a descrição",
-  "duration": 120
+  "title": "video teste",
+  "description": "funcionou",
+  "duration": 110
 }
 
 ### 
 
-DELETE http://localhost:3333/videos/8c485194-b7ea-4afd-8bfc-cf156c9cf663
+DELETE https://api-video-manager-vyb3.onrender.com/videos/5dd2dce4-11c7-4da3-9590-69b23d7bee66
