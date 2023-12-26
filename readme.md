@@ -1,9 +1,9 @@
-<h1 align="center">Video Manager</h1>
+<h1 align="center">Gerenciador de vídeos</h1>
 
 ## Descrição do Projeto
-<p align="center">The project consists of creating a video that contains a description and duration, where the created video is saved in a database(Neon) where you can create, delete and change data.</p>
+<p align="center">O projeto consiste na criação de um vídeo que contém descrição e duração, onde o vídeo criado é salvo em um banco de dados (Neon) onde você pode criar, excluir e alterar dados.</p>
 
-<h3>Database view</h3>
+<h3>Visualização do banco de dados</h3>
 <br />
 <a href="https://ibb.co/PwsTmXQ">
 <img src="https://i.ibb.co/RzGhvry/Captura-de-tela-2023-12-06-043332.png">
@@ -11,12 +11,12 @@
 
 <h3>Features</h3>
 
-- [x] Register a video
-- [x] Update a video (title, description, duration)
-- [x] List all videos created
-- [x] Delete video
+- [x] Registrar um vídeo
+- [x] Atualizar um vídeo (título, descrição, duração)
+- [x] Listar todos os vídeos criados
+- [x] Excluir vídeo
 
-<h3>Technologies 💻</h3>
+<h3>Tecnologias 💻</h3>
 
 <p>- Fastify</p>
 <p>- Postgres</p>
